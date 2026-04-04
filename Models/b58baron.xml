@@ -46,12 +46,12 @@
     </effect>
 
 
-<!-- Volumetric Shadow -->
+<!-- Volumetric Shadow FIXME: Add shadow.png and shadow.ac files
 
     <model>
         <path>Effects/shadow/shadow.xml</path>
     </model>
-
+-->
 
 <!-- Engine 1 Mixture Control -->
 <animation>
