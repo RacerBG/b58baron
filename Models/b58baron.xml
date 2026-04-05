@@ -46,12 +46,12 @@
     </effect>
 
 
-<!-- Volumetric Shadow -->
+<!-- Volumetric Shadow FIXME: Add shadow.png and shadow.ac files
 
     <model>
         <path>Effects/shadow/shadow.xml</path>
     </model>
-
+-->
 
 <!-- Engine 1 Mixture Control -->
 <animation>
@@ -1658,8 +1658,8 @@
 <property>engines/engine[0]/rpm</property>
 <factor>-1.0</factor>
 <center>
-<x-m>1.331</x-m>
-<y-m>-1.631</y-m>
+<x-m>1.330</x-m>
+<y-m>-1.635</y-m>
 <z-m>0.140</z-m>
 </center>
 <axis>
@@ -1690,8 +1690,8 @@
 <property>engines/engine[0]/rpm</property>
 <factor>-1.0</factor>
 <center>
-<x-m>1.331</x-m>
-<y-m>-1.631</y-m>
+<x-m>1.330</x-m>
+<y-m>-1.635</y-m>
 <z-m>0.140</z-m>
 </center>
 <axis>
